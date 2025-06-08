@@ -1,0 +1,35 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning Libraries
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+
+# GUI Framework
+tkinter>=8.6
+# Note: tkinter usually comes with Python installation
+
+# Additional GUI Libraries (if using advanced GUI)
+customtkinter>=5.0.0
+pillow>=9.0.0
+
+# Data Preprocessing
+scipy>=1.9.0
+
+# Optional: For enhanced data handling
+openpyxl>=3.0.0
+xlrd>=2.0.0
+
+# Optional: For plotting and visualization
+plotly>=5.0.0
+
+# Optional: For model persistence
+joblib>=1.1.0
+pickle5>=0.0.11
+
+# Development and Testing (optional)
+jupyter>=1.0.0
+notebook>=6.4.0
